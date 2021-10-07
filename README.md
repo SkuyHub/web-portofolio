@@ -1,2 +1,2 @@
 # web-portofolio
-hacktoberfest
+project made for hacktoberfest
